@@ -1,13 +1,12 @@
 # toonit
 [![CI](https://github.com/alashine/toonit/actions/workflows/ci.yml/badge.svg)](https://github.com/alashine/toonit/actions/workflows/ci.yml)
 
+
 [![PyPI Version](https://img.shields.io/pypi/v/toonit.svg)](https://pypi.org/project/toonit/)
 [![PyPI Downloads](https://img.shields.io/pypi/dm/toonit.svg)](https://pypi.org/project/toonit/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/toonit.svg)](https://pypi.org/project/toonit/)
 [![License](https://img.shields.io/github/license/alashine/toonit.svg)](LICENSE)
 
-
-[→ Visit the project on GitHub](https://github.com/femisimon/toonit)
 
 
 toonit is a developer-friendly serializer for **TOON – Token-Oriented Object Notation**.  
